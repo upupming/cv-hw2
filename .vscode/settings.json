@@ -1,0 +1,21 @@
+{
+  "cSpell.words": [
+    "Eigen",
+    "Sobel"
+  ],
+  "files.associations": {
+    "*.lyx": "tex",
+    "*.bib": "bibtex",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "*.vertexshader": "glsl",
+    "*.fragmentshader": "glsl",
+    "*.in": "plaintext",
+    "complex": "cpp",
+    "dense": "cpp",
+    "lu": "cpp",
+    "core": "cpp",
+    "xstring": "cpp"
+  }
+}
