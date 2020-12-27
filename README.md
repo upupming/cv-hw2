@@ -1,5 +1,7 @@
 # HW# 2 Harris Corner Detection
 
+- [PDF 版本（可正常展示公示）](README.pdf)
+
 ## 作业要求
 
 读入摄像头，回放视频。按一下空格键，则暂停回放，并将当前帧图像做一次 Harris Corner 检测 ，并将检测的结果叠加在原来图像上。
